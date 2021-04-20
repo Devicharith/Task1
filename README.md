@@ -10,3 +10,7 @@ Flask,sklearn,pickle,seaborn
 
 
 # Outputs
+## Index Page
+![alt text](https://github.com/Devicharith/Task1/blob/main/Outputs/Index_page.png)
+## Success Page
+![alt text](https://github.com/Devicharith/Task1/blob/main/Outputs/Success_page.png)
